@@ -2,6 +2,12 @@
 Gere um hash apartir de uma senha
 # Para uma melhor saida veja em RAW
 
+Feito Para linux
+
+# use o nome integral do algoritmo desejado
+# Ex: md5sum ou sha1sum ou sha256sum ou sha512sum
+# A saida vai para hash.txt
+
 ./GenHash.sh
 
 		  ____               _   _              _
